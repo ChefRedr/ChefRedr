@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChefRedr
 - 👀 I’m interested in chess and coding
-- 🌱 I’m currently learning HTML/CSS/JS and Python
+- 🌱 I’m currently learning C++ and HTML/CSS/JS
 
 <!---
 ChefRedr/ChefRedr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
