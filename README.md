@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChefRedr
-- 👀 I’m interested in chess and coding
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML/CSS/JS
 
 <!---
