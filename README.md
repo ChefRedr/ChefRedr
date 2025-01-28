@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ChefRedr
-- 👀 I’m interested in computer science and data science
-- 🌱 I’m currently learning Python and R
+- 👋 Hi, I’m Faris Eltayib
+- 👀 I’m interested in computer science and computer engineering
 
 <!---
 ChefRedr/ChefRedr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
